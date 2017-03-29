@@ -6,7 +6,6 @@ Framer.Extras.Preloader.enable()
 # Sketch
 sketch = Framer.Importer.load("imported/2_JCv_B1-redesigned-2@1x")
 {Artboard, tooltips, hovers, tooltipReport1, tooltipReport2, tooltipDynamic1, tooltipDynamic2, tooltipPixel, hoverReport1, hoverReport2, hoverDynamic1, hoverDynamic2, hoverPixel} = sketch
-Artboard.x = Align.center
 #Scroll
 scroll = ScrollComponent.wrap(Artboard)
 scroll.scrollVertical = true
@@ -74,3 +73,4 @@ createHovers = (index) ->
 for i in [0...hovers.length]
 	tooltipsArray[i].visible = false
 	createHovers(i)
+Artboard.x = Align.center

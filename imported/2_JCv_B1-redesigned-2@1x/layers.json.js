@@ -3,8 +3,8 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 	{
 		"objectId": "302A4921-91D7-40A6-B9E4-42D78C332A24",
 		"kind": "artboard",
-		"name": "page",
-		"originalName": "page",
+		"name": "Artboard",
+		"originalName": "Artboard",
 		"maskFrame": null,
 		"layerFrame": {
 			"x": 3274,
