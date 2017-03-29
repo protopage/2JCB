@@ -5,13 +5,13 @@ if (!window.Framer && window._bridge) {window._bridge('runtime.error', {message:
 window.__imported__ = window.__imported__ || {};
 window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 	{
-		"objectId": "F7407EFD-63C3-4627-BB60-AB230585F69F",
+		"objectId": "302A4921-91D7-40A6-B9E4-42D78C332A24",
 		"kind": "artboard",
 		"name": "page",
 		"originalName": "page",
 		"maskFrame": null,
 		"layerFrame": {
-			"x": 1565,
+			"x": 3274,
 			"y": 199,
 			"width": 1280,
 			"height": 4113
@@ -21,7 +21,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 		"backgroundColor": "rgba(255, 255, 255, 1)",
 		"children": [
 			{
-				"objectId": "FEE55244-7E68-4F95-8038-886F715F7C5C",
+				"objectId": "03E3DF9E-ED14-4A8A-AC52-CC7A4C586F74",
 				"kind": "group",
 				"name": "tooltips",
 				"originalName": "tooltips",
@@ -38,13 +38,13 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				},
 				"children": [
 					{
-						"objectId": "C7F846CA-DE47-4793-980A-521AEEFEDAF4",
+						"objectId": "44D1CCD1-16ED-4BA3-84FD-6A75A304B478",
 						"kind": "group",
 						"name": "tooltipReport2",
 						"originalName": "tooltipReport2",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 151,
+							"x": 152,
 							"y": 2450,
 							"width": 252,
 							"height": 69
@@ -54,9 +54,9 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipReport2-qzdgodq2.png",
+							"path": "images/Layer-tooltipReport2-ndremund.png",
 							"frame": {
-								"x": 151,
+								"x": 152,
 								"y": 2450,
 								"width": 252,
 								"height": 69
@@ -65,7 +65,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "5947AE33-7CC3-4301-BB1B-664696F16ADD",
+						"objectId": "C65E664C-E19F-479A-BD8B-0786B2FE8BB8",
 						"kind": "group",
 						"name": "tooltipDynamic2",
 						"originalName": "tooltipDynamic2",
@@ -81,7 +81,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipDynamic2-ntk0n0ff.png",
+							"path": "images/Layer-tooltipDynamic2-qzy1rty2.png",
 							"frame": {
 								"x": 138,
 								"y": 2260,
@@ -92,7 +92,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "D61791D9-4972-46FD-9904-A8081B3FC499",
+						"objectId": "FC2AFA6F-22B4-4962-886A-2D7CE9AB5D3E",
 						"kind": "group",
 						"name": "tooltipPixel",
 						"originalName": "tooltipPixel",
@@ -108,7 +108,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipPixel-rdyxnzkx.png",
+							"path": "images/Layer-tooltipPixel-rkmyquzb.png",
 							"frame": {
 								"x": 127,
 								"y": 1822,
@@ -119,7 +119,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "25651171-CA2B-462F-B536-560B56918952",
+						"objectId": "17371B11-9002-414E-91B3-F849952479B1",
 						"kind": "group",
 						"name": "tooltipReport1",
 						"originalName": "tooltipReport1",
@@ -135,7 +135,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipReport1-mju2ntex.png",
+							"path": "images/Layer-tooltipReport1-mtcznzfc.png",
 							"frame": {
 								"x": 685,
 								"y": 542,
@@ -146,7 +146,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "F4E814F7-64C4-4FE0-BB8F-5BED7F184DC7",
+						"objectId": "8023881E-93C3-451F-B6E4-D05ACB1D325E",
 						"kind": "group",
 						"name": "tooltipDynamic1",
 						"originalName": "tooltipDynamic1",
@@ -162,7 +162,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipDynamic1-rjrfode0.png",
+							"path": "images/Layer-tooltipDynamic1-odaymzg4.png",
 							"frame": {
 								"x": 497,
 								"y": 541,
@@ -175,7 +175,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				]
 			},
 			{
-				"objectId": "7F62B0C7-EB3E-4814-8F6E-14B69FD77047",
+				"objectId": "34B79F38-C47A-4A45-9222-6106F9B14E1B",
 				"kind": "group",
 				"name": "hovers",
 				"originalName": "hovers",
@@ -192,7 +192,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				},
 				"children": [
 					{
-						"objectId": "D5D4BAB8-EAE3-49E1-8B75-CD7E3F00AA03",
+						"objectId": "BC394C75-0113-4B15-837D-EFCF4D06D14E",
 						"kind": "group",
 						"name": "hoverReport1",
 						"originalName": "hoverReport1",
@@ -208,7 +208,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-hoverReport1-rdvenejb.png",
+							"path": "images/Layer-hoverReport1-qkmzotrd.png",
 							"frame": {
 								"x": 803,
 								"y": 612,
@@ -219,7 +219,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "46867950-29F6-4032-8836-0C0CE30441F1",
+						"objectId": "863E81EC-BFB3-4593-8D79-6562C2189F06",
 						"kind": "group",
 						"name": "hoverDynamic1",
 						"originalName": "hoverDynamic1",
@@ -235,7 +235,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-hoverDynamic1-ndy4njc5.png",
+							"path": "images/Layer-hoverDynamic1-odyzrtgx.png",
 							"frame": {
 								"x": 596,
 								"y": 612,
@@ -246,7 +246,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "8A2CD41F-34D8-4F1D-A9CA-7BCB713A690B",
+						"objectId": "0993F70B-DE59-4C40-8C5C-CFAF26D0EA72",
 						"kind": "group",
 						"name": "hoverPixel",
 						"originalName": "hoverPixel",
@@ -262,7 +262,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-hoverPixel-oeeyq0q0.png",
+							"path": "images/Layer-hoverPixel-mdk5m0y3.png",
 							"frame": {
 								"x": 243,
 								"y": 1897,
@@ -273,7 +273,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "9A615D89-C9FE-4F6F-9175-1D821529CBF5",
+						"objectId": "D406C124-CEB8-4561-A55B-23B1E4178D8F",
 						"kind": "group",
 						"name": "hoverReport2",
 						"originalName": "hoverReport2",
@@ -289,7 +289,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-hoverReport2-oue2mtve.png",
+							"path": "images/Layer-hoverReport2-rdqwnkmx.png",
 							"frame": {
 								"x": 268,
 								"y": 2521,
@@ -300,7 +300,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "BE690866-6789-43D3-98AD-E85353EDECA2",
+						"objectId": "AF6C16C5-59BD-4894-814C-BEBBFEBBF029",
 						"kind": "group",
 						"name": "hoverDynamic2",
 						"originalName": "hoverDynamic2",
@@ -316,7 +316,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-hoverDynamic2-qku2ota4.png",
+							"path": "images/Layer-hoverDynamic2-quy2qze2.png",
 							"frame": {
 								"x": 235,
 								"y": 2329,
@@ -329,7 +329,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				]
 			},
 			{
-				"objectId": "0F6D828B-8A18-4667-BFBA-34626B2F42FB",
+				"objectId": "5A074F93-4E10-4AB5-B7F9-E8C18FA84512",
 				"kind": "group",
 				"name": "bg",
 				"originalName": "bg*",
@@ -345,7 +345,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 					"opacity": 1
 				},
 				"image": {
-					"path": "images/Layer-bg-mey2rdgy.png",
+					"path": "images/Layer-bg-nuewnzrg.png",
 					"frame": {
 						"x": -111,
 						"y": 48,
