@@ -99,6 +99,8 @@ framer/backups/backup-2017-03-29 16.34.06.coffee
 framer/backups/backup-2017-03-29 16.35.02.coffee
 framer/backups/backup-2017-03-29 16.36.02.coffee
 framer/backups/backup-2017-03-29 16.37.03.coffee
+framer/backups/backup-2017-03-29 17.13.20.coffee
+framer/backups/backup-2017-03-30 08.37.16.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
@@ -132,5 +134,58 @@ imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport1-mtcznzfc.png
 imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport2-ndremund.png
 imported/2_JCv_B1-redesigned-2@1x/layers.json
 imported/2_JCv_B1-redesigned-2@1x/layers.json.js
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-bgBot-njlfmtne.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-bgPad1-otk0rey4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-bgPad2-meywoday.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-bgPad3-oei4odre.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-bgTop-nkq0rtnb.jpg
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-btnCard-rji2njaw.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-btnTop-othgneve.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-cardBG-ndyzmte4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-cardBGEnterprise-mzeyoey5.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-cardContent-mjcxn0rc.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-contactUs-n0y0quq3.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-enterpriseBottom-rufbmtq2.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-enterpriseGradient-ndq2n0u0.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-enterpriseHider-mey2mtbg.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-enterpriseInfo-otremdyw.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-enterpriseTop-qtc2qjky.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-enterpriseZone-odm1rti2.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-freeTrialCopy-rdk3qjrf.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-Group_28-oey3q0q4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-Group_4-oty0m0y2.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-Group_4-rdi2njuy.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-Group_7-nzhgmdi4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-Group_8-mtrbrtg2.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-hoverDynamic-mzdfmjax.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-hoverPixel-njndote5.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-hoverReport-njaxmejf.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info1Content-njvgquu1.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info1Gradient-rui0mumw.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info1Hider-nke1rdi4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info2Content-mtayqku2.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info2Gradient-mdc2rdq4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info2Hider-oda2njzg.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info3Content-othgrjex.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info3Gradient-nzc3oey3.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-info3Hider-mdeymeiz.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-lessDetails1-mkm0qtc5.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-lessDetails2-qkq3ote4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-lessDetails3-njg1otg3.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-lessDetailsEnterprise-mtgxnkq4.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-moreDetails1-qzfgqzde.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-moreDetails2-qzqxnei0.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-moreDetails3-qtlcmuuy.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-moreDetailsEnterprise-n0vdqja5.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-normalZone-qkncmtm3.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-Page_1-mjm0n0yy.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-plan1Content-rumzrjey.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-plan2Content-m0uwndq5.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-plan3Content-nzuzreje.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-tooltipDynamic-mddfnuqy.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-tooltipPixel-mkrdrthc.png
+imported/2_JCv_B1-redesigned-6@1x/images/Layer-tooltipReport-rjbcnuew.png
+imported/2_JCv_B1-redesigned-6@1x/layers.json
+imported/2_JCv_B1-redesigned-6@1x/layers.json.js
 index.html
 modules/myModule.coffee
