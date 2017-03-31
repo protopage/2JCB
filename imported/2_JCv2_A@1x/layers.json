@@ -1,9 +1,9 @@
 [
 	{
-		"objectId": "5219F68E-8C4C-4556-A4D2-07C33C91756F",
+		"objectId": "5B5C035B-51CA-4C62-8D6F-D89B57DEC4B2",
 		"kind": "artboard",
-		"name": "Artboard",
-		"originalName": "Artboard",
+		"name": "Pricing_Page_1_Redesign",
+		"originalName": "Pricing Page 1 Redesign",
 		"maskFrame": null,
 		"layerFrame": {
 			"x": 2505,
@@ -16,7 +16,7 @@
 		"backgroundColor": "rgba(255, 255, 255, 1)",
 		"children": [
 			{
-				"objectId": "FBA9E677-FCBD-423A-BB10-BF5777D3A429",
+				"objectId": "D4F6FA23-4243-425B-9C4E-100EEDA7E169",
 				"kind": "group",
 				"name": "tooltips",
 				"originalName": "tooltips",
@@ -33,7 +33,7 @@
 				},
 				"children": [
 					{
-						"objectId": "1E28589A-2070-424B-8575-7AF960ABF959",
+						"objectId": "0F864DFA-FCCF-49D0-9A82-1EC112159AD9",
 						"kind": "group",
 						"name": "tooltipReport1",
 						"originalName": "tooltipReport1",
@@ -49,7 +49,7 @@
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipReport1-muuyodu4.png",
+							"path": "images/Layer-tooltipReport1-mey4njre.png",
 							"frame": {
 								"x": 686,
 								"y": 524,
@@ -60,7 +60,7 @@
 						"children": []
 					},
 					{
-						"objectId": "2FFEC3C9-18F0-4A6F-B076-5F63EAD99262",
+						"objectId": "16166EFA-7835-47BE-B7BC-11BDC0EA9D6E",
 						"kind": "group",
 						"name": "tooltipReport2",
 						"originalName": "tooltipReport2",
@@ -76,7 +76,7 @@
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipReport2-mkzgrumz.png",
+							"path": "images/Layer-tooltipReport2-mtyxnjzf.png",
 							"frame": {
 								"x": 152,
 								"y": 1778,
@@ -87,7 +87,7 @@
 						"children": []
 					},
 					{
-						"objectId": "4FB98BE5-3573-4C7E-B68C-EA674B9494E5",
+						"objectId": "DCC77EDC-EA94-4F4F-8524-9071973AB3EB",
 						"kind": "group",
 						"name": "tooltipDynamic2",
 						"originalName": "tooltipDynamic2",
@@ -103,7 +103,7 @@
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipDynamic2-nezcothc.png",
+							"path": "images/Layer-tooltipDynamic2-rendnzdf.png",
 							"frame": {
 								"x": 137,
 								"y": 2073,
@@ -114,7 +114,7 @@
 						"children": []
 					},
 					{
-						"objectId": "91234193-6DE1-4B4A-9B6B-883A659D74BA",
+						"objectId": "C5F335B9-88EC-4F28-8622-DA5C3FC1E881",
 						"kind": "group",
 						"name": "tooltipPixel",
 						"originalName": "tooltipPixel",
@@ -130,7 +130,7 @@
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipPixel-oteymzqx.png",
+							"path": "images/Layer-tooltipPixel-qzvgmzm1.png",
 							"frame": {
 								"x": 127,
 								"y": 2263,
@@ -143,7 +143,7 @@
 				]
 			},
 			{
-				"objectId": "D1E8A293-A0FD-4B9D-879B-EC9101E1B179",
+				"objectId": "0ECCCB8E-B460-4BDB-BEC5-42FDD2D5C277",
 				"kind": "group",
 				"name": "hovers",
 				"originalName": "hovers",
@@ -160,7 +160,7 @@
 				},
 				"children": [
 					{
-						"objectId": "6F209F52-6FE2-49C1-AAE9-38656AEB5917",
+						"objectId": "89436417-9D1B-4970-92EA-41DE1CC71C55",
 						"kind": "text",
 						"name": "hoverDynamic2",
 						"originalName": "hoverDynamic2",
@@ -183,7 +183,7 @@
 							]
 						},
 						"image": {
-							"path": "images/Layer-hoverDynamic2-nkyymdlg.png",
+							"path": "images/Layer-hoverDynamic2-odk0mzy0.png",
 							"frame": {
 								"x": 237,
 								"y": 2145,
@@ -194,7 +194,7 @@
 						"children": []
 					},
 					{
-						"objectId": "556A4140-AEC0-4D62-91A4-DE6189E7D24F",
+						"objectId": "F8D88BA6-9A58-4FB9-8757-BFA0B794F80D",
 						"kind": "text",
 						"name": "hoverReport2",
 						"originalName": "hoverReport2",
@@ -217,7 +217,7 @@
 							]
 						},
 						"image": {
-							"path": "images/Layer-hoverReport2-ntu2qtqx.png",
+							"path": "images/Layer-hoverReport2-rjheodhc.png",
 							"frame": {
 								"x": 271,
 								"y": 1851,
@@ -228,7 +228,7 @@
 						"children": []
 					},
 					{
-						"objectId": "F6206AB2-68BA-448C-BFAF-AC6B6B201266",
+						"objectId": "79C4BF89-6200-4B20-86EB-ECE76EE9CDD7",
 						"kind": "text",
 						"name": "hoverPixel",
 						"originalName": "hoverPixel",
@@ -251,7 +251,7 @@
 							]
 						},
 						"image": {
-							"path": "images/Layer-hoverPixel-rjyymdzb.png",
+							"path": "images/Layer-hoverPixel-nzldnejg.png",
 							"frame": {
 								"x": 245,
 								"y": 2340,
@@ -262,7 +262,7 @@
 						"children": []
 					},
 					{
-						"objectId": "165769B5-2B98-448B-9963-EF2BE20170D0",
+						"objectId": "65D2EEB2-5FBF-47BA-B803-484392F84315",
 						"kind": "group",
 						"name": "hoverReport1",
 						"originalName": "hoverReport1",
@@ -278,7 +278,7 @@
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-hoverReport1-mty1nzy5.png",
+							"path": "images/Layer-hoverReport1-njvemkvf.png",
 							"frame": {
 								"x": 805,
 								"y": 594,
@@ -291,7 +291,7 @@
 				]
 			},
 			{
-				"objectId": "7B668B5E-16D2-4C60-8E18-6D1EF46118CE",
+				"objectId": "E744D5F3-4B0C-4055-BF0F-88A24AF46570",
 				"kind": "group",
 				"name": "bg",
 				"originalName": "bg*",
@@ -307,7 +307,7 @@
 					"opacity": 1
 				},
 				"image": {
-					"path": "images/Layer-bg-n0i2njhc.png",
+					"path": "images/Layer-bg-rtc0neq1.png",
 					"frame": {
 						"x": -111,
 						"y": 48,

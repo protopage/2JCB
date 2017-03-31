@@ -60,9 +60,9 @@ Canvas.onResize ->
 	scroll.size = Canvas.size
 	scrollBar.x = Align.right
 #Tooltips
-hovers = [hoverReport1, hoverReport2, hoverDynamic2, hoverPixel]
+hovers = [hoverReport1, hoverReport2, hoverDynamic1, hoverDynamic2, hoverPixel]
 
-tooltipsArray = [tooltipReport1, tooltipReport2, tooltipDynamic2, tooltipPixel]
+tooltipsArray = [tooltipReport1, tooltipReport2, tooltipDynamic1, tooltipDynamic2, tooltipPixel]
 
 
 createHovers = (index) ->

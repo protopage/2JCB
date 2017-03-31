@@ -1733,34 +1733,34 @@ window.__imported__["2_JCv_B1-redesigned-6@1x/layers.json.js"] = [
 	}
 ]
 window.__imported__ = window.__imported__ || {};
-window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
+window.__imported__["2_JCv2_A@1x/layers.json.js"] = [
 	{
-		"objectId": "302A4921-91D7-40A6-B9E4-42D78C332A24",
+		"objectId": "5B5C035B-51CA-4C62-8D6F-D89B57DEC4B2",
 		"kind": "artboard",
-		"name": "Artboard",
-		"originalName": "Artboard",
+		"name": "Pricing_Page_1_Redesign",
+		"originalName": "Pricing Page 1 Redesign",
 		"maskFrame": null,
 		"layerFrame": {
-			"x": 3274,
-			"y": 199,
+			"x": 2505,
+			"y": -1666,
 			"width": 1280,
-			"height": 4113
+			"height": 4012
 		},
 		"visible": true,
 		"metadata": {},
 		"backgroundColor": "rgba(255, 255, 255, 1)",
 		"children": [
 			{
-				"objectId": "03E3DF9E-ED14-4A8A-AC52-CC7A4C586F74",
+				"objectId": "D4F6FA23-4243-425B-9C4E-100EEDA7E169",
 				"kind": "group",
 				"name": "tooltips",
 				"originalName": "tooltips",
 				"maskFrame": null,
 				"layerFrame": {
 					"x": 127,
-					"y": 541,
-					"width": 810,
-					"height": 1978
+					"y": 524,
+					"width": 811,
+					"height": 1812
 				},
 				"visible": true,
 				"metadata": {
@@ -1768,14 +1768,14 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				},
 				"children": [
 					{
-						"objectId": "44D1CCD1-16ED-4BA3-84FD-6A75A304B478",
+						"objectId": "0F864DFA-FCCF-49D0-9A82-1EC112159AD9",
 						"kind": "group",
-						"name": "tooltipReport2",
-						"originalName": "tooltipReport2",
+						"name": "tooltipReport1",
+						"originalName": "tooltipReport1",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 152,
-							"y": 2450,
+							"x": 686,
+							"y": 524,
 							"width": 252,
 							"height": 69
 						},
@@ -1784,10 +1784,10 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipReport2-ndremund.png",
+							"path": "images/Layer-tooltipReport1-mey4njre.png",
 							"frame": {
-								"x": 152,
-								"y": 2450,
+								"x": 686,
+								"y": 524,
 								"width": 252,
 								"height": 69
 							}
@@ -1795,14 +1795,41 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "C65E664C-E19F-479A-BD8B-0786B2FE8BB8",
+						"objectId": "16166EFA-7835-47BE-B7BC-11BDC0EA9D6E",
+						"kind": "group",
+						"name": "tooltipReport2",
+						"originalName": "tooltipReport2",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 152,
+							"y": 1778,
+							"width": 252,
+							"height": 69
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-tooltipReport2-mtyxnjzf.png",
+							"frame": {
+								"x": 152,
+								"y": 1778,
+								"width": 252,
+								"height": 69
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "DCC77EDC-EA94-4F4F-8524-9071973AB3EB",
 						"kind": "group",
 						"name": "tooltipDynamic2",
 						"originalName": "tooltipDynamic2",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 138,
-							"y": 2260,
+							"x": 137,
+							"y": 2073,
 							"width": 218,
 							"height": 68
 						},
@@ -1811,10 +1838,10 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipDynamic2-qzy1rty2.png",
+							"path": "images/Layer-tooltipDynamic2-rendnzdf.png",
 							"frame": {
-								"x": 138,
-								"y": 2260,
+								"x": 137,
+								"y": 2073,
 								"width": 218,
 								"height": 68
 							}
@@ -1822,14 +1849,14 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "FC2AFA6F-22B4-4962-886A-2D7CE9AB5D3E",
+						"objectId": "C5F335B9-88EC-4F28-8622-DA5C3FC1E881",
 						"kind": "group",
 						"name": "tooltipPixel",
 						"originalName": "tooltipPixel",
 						"maskFrame": null,
 						"layerFrame": {
 							"x": 127,
-							"y": 1822,
+							"y": 2263,
 							"width": 252,
 							"height": 73
 						},
@@ -1838,25 +1865,240 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipPixel-rkmyquzb.png",
+							"path": "images/Layer-tooltipPixel-qzvgmzm1.png",
 							"frame": {
 								"x": 127,
-								"y": 1822,
+								"y": 2263,
 								"width": 252,
 								"height": 73
 							}
 						},
 						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "0ECCCB8E-B460-4BDB-BEC5-42FDD2D5C277",
+				"kind": "group",
+				"name": "hovers",
+				"originalName": "hovers",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 237,
+					"y": 594,
+					"width": 583,
+					"height": 1760
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "89436417-9D1B-4970-92EA-41DE1CC71C55",
+						"kind": "text",
+						"name": "hoverDynamic2",
+						"originalName": "hoverDynamic2",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 237,
+							"y": 2145,
+							"width": 13,
+							"height": 13
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1,
+							"string": "help_outline",
+							"css": [
+								"/* help_outline copy: */",
+								"font-family: MaterialIcons-Regular;",
+								"font-size: 15px;",
+								"color: #AFAFAF;"
+							]
+						},
+						"image": {
+							"path": "images/Layer-hoverDynamic2-odk0mzy0.png",
+							"frame": {
+								"x": 237,
+								"y": 2145,
+								"width": 13,
+								"height": 13
+							}
+						},
+						"children": []
 					},
 					{
-						"objectId": "17371B11-9002-414E-91B3-F849952479B1",
+						"objectId": "F8D88BA6-9A58-4FB9-8757-BFA0B794F80D",
+						"kind": "text",
+						"name": "hoverReport2",
+						"originalName": "hoverReport2",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 271,
+							"y": 1851,
+							"width": 13,
+							"height": 13
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1,
+							"string": "help_outline",
+							"css": [
+								"/* help_outline: */",
+								"font-family: MaterialIcons-Regular;",
+								"font-size: 15px;",
+								"color: #AFAFAF;"
+							]
+						},
+						"image": {
+							"path": "images/Layer-hoverReport2-rjheodhc.png",
+							"frame": {
+								"x": 271,
+								"y": 1851,
+								"width": 13,
+								"height": 13
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "79C4BF89-6200-4B20-86EB-ECE76EE9CDD7",
+						"kind": "text",
+						"name": "hoverPixel",
+						"originalName": "hoverPixel",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 245,
+							"y": 2340,
+							"width": 14,
+							"height": 14
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1,
+							"string": "help_outline",
+							"css": [
+								"/* help_outline copy: */",
+								"font-family: MaterialIcons-Regular;",
+								"font-size: 16px;",
+								"color: #AFAFAF;"
+							]
+						},
+						"image": {
+							"path": "images/Layer-hoverPixel-nzldnejg.png",
+							"frame": {
+								"x": 245,
+								"y": 2340,
+								"width": 14,
+								"height": 14
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "65D2EEB2-5FBF-47BA-B803-484392F84315",
+						"kind": "group",
+						"name": "hoverReport1",
+						"originalName": "hoverReport1",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 805,
+							"y": 594,
+							"width": 15,
+							"height": 15
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-hoverReport1-njvemkvf.png",
+							"frame": {
+								"x": 805,
+								"y": 594,
+								"width": 15,
+								"height": 15
+							}
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"objectId": "E744D5F3-4B0C-4055-BF0F-88A24AF46570",
+				"kind": "group",
+				"name": "bg",
+				"originalName": "bg*",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": -111,
+					"y": 48,
+					"width": 1492,
+					"height": 3964
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"image": {
+					"path": "images/Layer-bg-rtc0neq1.png",
+					"frame": {
+						"x": -111,
+						"y": 48,
+						"width": 1492,
+						"height": 3964
+					}
+				},
+				"children": []
+			}
+		]
+	}
+]
+window.__imported__ = window.__imported__ || {};
+window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
+	{
+		"objectId": "5219F68E-8C4C-4556-A4D2-07C33C91756F",
+		"kind": "artboard",
+		"name": "Artboard",
+		"originalName": "Artboard",
+		"maskFrame": null,
+		"layerFrame": {
+			"x": 2505,
+			"y": -1666,
+			"width": 1280,
+			"height": 4012
+		},
+		"visible": true,
+		"metadata": {},
+		"backgroundColor": "rgba(255, 255, 255, 1)",
+		"children": [
+			{
+				"objectId": "FBA9E677-FCBD-423A-BB10-BF5777D3A429",
+				"kind": "group",
+				"name": "tooltips",
+				"originalName": "tooltips",
+				"maskFrame": null,
+				"layerFrame": {
+					"x": 127,
+					"y": 524,
+					"width": 811,
+					"height": 1812
+				},
+				"visible": true,
+				"metadata": {
+					"opacity": 1
+				},
+				"children": [
+					{
+						"objectId": "1E28589A-2070-424B-8575-7AF960ABF959",
 						"kind": "group",
 						"name": "tooltipReport1",
 						"originalName": "tooltipReport1",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 685,
-							"y": 542,
+							"x": 686,
+							"y": 524,
 							"width": 252,
 							"height": 69
 						},
@@ -1865,10 +2107,10 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipReport1-mtcznzfc.png",
+							"path": "images/Layer-tooltipReport1-muuyodu4.png",
 							"frame": {
-								"x": 685,
-								"y": 542,
+								"x": 686,
+								"y": 524,
 								"width": 252,
 								"height": 69
 							}
@@ -1876,14 +2118,41 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 						"children": []
 					},
 					{
-						"objectId": "8023881E-93C3-451F-B6E4-D05ACB1D325E",
+						"objectId": "2FFEC3C9-18F0-4A6F-B076-5F63EAD99262",
 						"kind": "group",
-						"name": "tooltipDynamic1",
-						"originalName": "tooltipDynamic1",
+						"name": "tooltipReport2",
+						"originalName": "tooltipReport2",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 497,
-							"y": 541,
+							"x": 152,
+							"y": 1778,
+							"width": 252,
+							"height": 69
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-tooltipReport2-mkzgrumz.png",
+							"frame": {
+								"x": 152,
+								"y": 1778,
+								"width": 252,
+								"height": 69
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "4FB98BE5-3573-4C7E-B68C-EA674B9494E5",
+						"kind": "group",
+						"name": "tooltipDynamic2",
+						"originalName": "tooltipDynamic2",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 137,
+							"y": 2073,
 							"width": 218,
 							"height": 68
 						},
@@ -1892,12 +2161,39 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-tooltipDynamic1-odaymzg4.png",
+							"path": "images/Layer-tooltipDynamic2-nezcothc.png",
 							"frame": {
-								"x": 497,
-								"y": 541,
+								"x": 137,
+								"y": 2073,
 								"width": 218,
 								"height": 68
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "91234193-6DE1-4B4A-9B6B-883A659D74BA",
+						"kind": "group",
+						"name": "tooltipPixel",
+						"originalName": "tooltipPixel",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 127,
+							"y": 2263,
+							"width": 252,
+							"height": 73
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1
+						},
+						"image": {
+							"path": "images/Layer-tooltipPixel-oteymzqx.png",
+							"frame": {
+								"x": 127,
+								"y": 2263,
+								"width": 252,
+								"height": 73
 							}
 						},
 						"children": []
@@ -1905,16 +2201,16 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				]
 			},
 			{
-				"objectId": "34B79F38-C47A-4A45-9222-6106F9B14E1B",
+				"objectId": "D1E8A293-A0FD-4B9D-879B-EC9101E1B179",
 				"kind": "group",
 				"name": "hovers",
 				"originalName": "hovers",
 				"maskFrame": null,
 				"layerFrame": {
-					"x": 235,
-					"y": 612,
+					"x": 237,
+					"y": 594,
 					"width": 583,
-					"height": 1928
+					"height": 1760
 				},
 				"visible": true,
 				"metadata": {
@@ -1922,14 +2218,116 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				},
 				"children": [
 					{
-						"objectId": "BC394C75-0113-4B15-837D-EFCF4D06D14E",
+						"objectId": "6F209F52-6FE2-49C1-AAE9-38656AEB5917",
+						"kind": "text",
+						"name": "hoverDynamic2",
+						"originalName": "hoverDynamic2",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 237,
+							"y": 2145,
+							"width": 13,
+							"height": 13
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1,
+							"string": "help_outline",
+							"css": [
+								"/* help_outline copy: */",
+								"font-family: MaterialIcons-Regular;",
+								"font-size: 15px;",
+								"color: #AFAFAF;"
+							]
+						},
+						"image": {
+							"path": "images/Layer-hoverDynamic2-nkyymdlg.png",
+							"frame": {
+								"x": 237,
+								"y": 2145,
+								"width": 13,
+								"height": 13
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "556A4140-AEC0-4D62-91A4-DE6189E7D24F",
+						"kind": "text",
+						"name": "hoverReport2",
+						"originalName": "hoverReport2",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 271,
+							"y": 1851,
+							"width": 13,
+							"height": 13
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1,
+							"string": "help_outline",
+							"css": [
+								"/* help_outline: */",
+								"font-family: MaterialIcons-Regular;",
+								"font-size: 15px;",
+								"color: #AFAFAF;"
+							]
+						},
+						"image": {
+							"path": "images/Layer-hoverReport2-ntu2qtqx.png",
+							"frame": {
+								"x": 271,
+								"y": 1851,
+								"width": 13,
+								"height": 13
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "F6206AB2-68BA-448C-BFAF-AC6B6B201266",
+						"kind": "text",
+						"name": "hoverPixel",
+						"originalName": "hoverPixel",
+						"maskFrame": null,
+						"layerFrame": {
+							"x": 245,
+							"y": 2340,
+							"width": 14,
+							"height": 14
+						},
+						"visible": true,
+						"metadata": {
+							"opacity": 1,
+							"string": "help_outline",
+							"css": [
+								"/* help_outline copy: */",
+								"font-family: MaterialIcons-Regular;",
+								"font-size: 16px;",
+								"color: #AFAFAF;"
+							]
+						},
+						"image": {
+							"path": "images/Layer-hoverPixel-rjyymdzb.png",
+							"frame": {
+								"x": 245,
+								"y": 2340,
+								"width": 14,
+								"height": 14
+							}
+						},
+						"children": []
+					},
+					{
+						"objectId": "165769B5-2B98-448B-9963-EF2BE20170D0",
 						"kind": "group",
 						"name": "hoverReport1",
 						"originalName": "hoverReport1",
 						"maskFrame": null,
 						"layerFrame": {
-							"x": 803,
-							"y": 612,
+							"x": 805,
+							"y": 594,
 							"width": 15,
 							"height": 15
 						},
@@ -1938,120 +2336,12 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 							"opacity": 1
 						},
 						"image": {
-							"path": "images/Layer-hoverReport1-qkmzotrd.png",
+							"path": "images/Layer-hoverReport1-mty1nzy5.png",
 							"frame": {
-								"x": 803,
-								"y": 612,
+								"x": 805,
+								"y": 594,
 								"width": 15,
 								"height": 15
-							}
-						},
-						"children": []
-					},
-					{
-						"objectId": "863E81EC-BFB3-4593-8D79-6562C2189F06",
-						"kind": "group",
-						"name": "hoverDynamic1",
-						"originalName": "hoverDynamic1",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 596,
-							"y": 612,
-							"width": 15,
-							"height": 15
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-hoverDynamic1-odyzrtgx.png",
-							"frame": {
-								"x": 596,
-								"y": 612,
-								"width": 15,
-								"height": 15
-							}
-						},
-						"children": []
-					},
-					{
-						"objectId": "0993F70B-DE59-4C40-8C5C-CFAF26D0EA72",
-						"kind": "group",
-						"name": "hoverPixel",
-						"originalName": "hoverPixel",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 243,
-							"y": 1897,
-							"width": 19,
-							"height": 19
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-hoverPixel-mdk5m0y3.png",
-							"frame": {
-								"x": 243,
-								"y": 1897,
-								"width": 19,
-								"height": 19
-							}
-						},
-						"children": []
-					},
-					{
-						"objectId": "D406C124-CEB8-4561-A55B-23B1E4178D8F",
-						"kind": "group",
-						"name": "hoverReport2",
-						"originalName": "hoverReport2",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 268,
-							"y": 2521,
-							"width": 19,
-							"height": 19
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-hoverReport2-rdqwnkmx.png",
-							"frame": {
-								"x": 268,
-								"y": 2521,
-								"width": 19,
-								"height": 19
-							}
-						},
-						"children": []
-					},
-					{
-						"objectId": "AF6C16C5-59BD-4894-814C-BEBBFEBBF029",
-						"kind": "group",
-						"name": "hoverDynamic2",
-						"originalName": "hoverDynamic2",
-						"maskFrame": null,
-						"layerFrame": {
-							"x": 235,
-							"y": 2329,
-							"width": 19,
-							"height": 19
-						},
-						"visible": true,
-						"metadata": {
-							"opacity": 1
-						},
-						"image": {
-							"path": "images/Layer-hoverDynamic2-quy2qze2.png",
-							"frame": {
-								"x": 235,
-								"y": 2329,
-								"width": 19,
-								"height": 19
 							}
 						},
 						"children": []
@@ -2059,7 +2349,7 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				]
 			},
 			{
-				"objectId": "5A074F93-4E10-4AB5-B7F9-E8C18FA84512",
+				"objectId": "7B668B5E-16D2-4C60-8E18-6D1EF46118CE",
 				"kind": "group",
 				"name": "bg",
 				"originalName": "bg*",
@@ -2067,20 +2357,20 @@ window.__imported__["2_JCv_B1-redesigned-2@1x/layers.json.js"] = [
 				"layerFrame": {
 					"x": -111,
 					"y": 48,
-					"width": 1512,
-					"height": 4065
+					"width": 1492,
+					"height": 3964
 				},
 				"visible": true,
 				"metadata": {
 					"opacity": 1
 				},
 				"image": {
-					"path": "images/Layer-bg-nuewnzrg.png",
+					"path": "images/Layer-bg-n0i2njhc.png",
 					"frame": {
 						"x": -111,
 						"y": 48,
-						"width": 1512,
-						"height": 4065
+						"width": 1492,
+						"height": 3964
 					}
 				},
 				"children": []
