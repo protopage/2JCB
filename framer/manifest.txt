@@ -85,9 +85,6 @@
 .git/refs/heads/master
 .git/refs/remotes/origin/master
 app.coffee
-framer/backups/backup-2017-04-07 16.41.48.coffee
-framer/backups/backup-2017-04-07 16.46.48.coffee
-framer/backups/backup-2017-04-07 16.47.48.coffee
 framer/backups/backup-2017-04-07 16.48.48.coffee
 framer/backups/backup-2017-04-07 16.52.48.coffee
 framer/backups/backup-2017-04-07 16.53.48.coffee
@@ -106,6 +103,9 @@ framer/backups/backup-2017-04-07 17.10.48.coffee
 framer/backups/backup-2017-04-07 17.11.48.coffee
 framer/backups/backup-2017-04-07 17.12.48.coffee
 framer/backups/backup-2017-04-07 17.13.48.coffee
+framer/backups/backup-2017-04-07 17.24.39.coffee
+framer/backups/backup-2017-04-07 17.26.23.coffee
+framer/backups/backup-2017-04-07 17.55.54.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
@@ -137,21 +137,21 @@ imported/2_JCv2_A@1x/images/Layer-tooltipReport1-mey4njre.png
 imported/2_JCv2_A@1x/images/Layer-tooltipReport2-mtyxnjzf.png
 imported/2_JCv2_A@1x/layers.json
 imported/2_JCv2_A@1x/layers.json.js
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-bg-rta4rtg1.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-botPadding-qzkymdre.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-Group_17-mzy5qzk5.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-Group_18-rtuwoeyx.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-headerGuide-njzfmzlb.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-headerGuide2-nkyznzq2.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverDynamic2-nzfgreq1.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverPixel-rtdbqte0.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport1-oddfrufc.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport2-quvertg4.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipDynamic2-rjm2mtbf.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipPixel-qzhcmtq1.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport1-qumyrtex.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport2-mjq4m0jd.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-topPadding-ntm4mty3.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-bg-rdcxndm5.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-botPadding-n0uyqjdd.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-Group_17-rtexoey2.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-Group_18-mtiwruvd.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-headerGuide-nki3n0i4.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-headerGuide2-qjzeruey.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverDynamic2-q0fbnja5.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverPixel-mdk5mzhd.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport1-odzenzje.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport2-qte3qzi0.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipDynamic2-mdhcmkff.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipPixel-q0i4mkfg.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport1-njdgrtld.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport2-nei1q0yy.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-topPadding-mtkymdhd.png
 imported/2_JCv_B1-redesigned-2@1x/layers.json
 imported/2_JCv_B1-redesigned-2@1x/layers.json.js
 imported/2_JCv_B1-redesigned-6@1x/images/Layer-bgBot-njlfmtne.png
