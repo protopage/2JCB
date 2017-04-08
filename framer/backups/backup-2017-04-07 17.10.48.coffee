@@ -54,9 +54,9 @@ scrollBar.draggable.constraints =
 scrollBar.onDrag ->
 	progress = scrollBar.y / (Screen.height - scrollBar.height)
 	scroll.scrollY = progress * (scroll.content.height - scroll.height)
-	if scroll.scrollY >= headerGuide.minY - 90 and scroll.scrollY < headerGuide2.minY - 90
+	if scroll.scrollY >= headerGuide.minY - 90
 		header.visible = true
-	else if scroll.scrollY >= headerGuide2.minY - 90
+	else if scroll.scrollY >= headerGuide2.minY
 		header.visible = false
 	else
 		header.visible = false
@@ -85,9 +85,9 @@ for i in [0...hovers.length]
 header.visible = false
 
 scroll.onMove ->
-	if scroll.scrollY >= headerGuide.minY - 90 and scroll.scrollY < headerGuide2.minY - 90
+	if scroll.scrollY >= headerGuide.minY - 90
 		header.visible = true
-	else if scroll.scrollY >= headerGuide2.minY - 90
+	else if scroll.scrollY >= headerGuide2.minY
 		header.visible = false
 	else
 		header.visible = false

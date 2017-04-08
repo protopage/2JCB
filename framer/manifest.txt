@@ -85,24 +85,27 @@
 .git/refs/heads/master
 .git/refs/remotes/origin/master
 app.coffee
-framer/backups/backup-2017-03-29 15.33.02.coffee
-framer/backups/backup-2017-03-29 15.34.22.coffee
-framer/backups/backup-2017-03-29 15.45.02.coffee
-framer/backups/backup-2017-03-29 15.46.02.coffee
-framer/backups/backup-2017-03-29 15.47.04.coffee
-framer/backups/backup-2017-03-29 15.48.02.coffee
-framer/backups/backup-2017-03-29 15.49.02.coffee
-framer/backups/backup-2017-03-29 16.13.02.coffee
-framer/backups/backup-2017-03-29 16.22.02.coffee
-framer/backups/backup-2017-03-29 16.33.03.coffee
-framer/backups/backup-2017-03-29 16.34.06.coffee
-framer/backups/backup-2017-03-29 16.35.02.coffee
-framer/backups/backup-2017-03-29 16.36.02.coffee
-framer/backups/backup-2017-03-29 16.37.03.coffee
-framer/backups/backup-2017-03-29 17.13.20.coffee
-framer/backups/backup-2017-03-30 08.37.16.coffee
-framer/backups/backup-2017-03-30 20.51.40.coffee
-framer/backups/backup-2017-03-30 20.53.40.coffee
+framer/backups/backup-2017-04-07 16.41.48.coffee
+framer/backups/backup-2017-04-07 16.46.48.coffee
+framer/backups/backup-2017-04-07 16.47.48.coffee
+framer/backups/backup-2017-04-07 16.48.48.coffee
+framer/backups/backup-2017-04-07 16.52.48.coffee
+framer/backups/backup-2017-04-07 16.53.48.coffee
+framer/backups/backup-2017-04-07 16.54.48.coffee
+framer/backups/backup-2017-04-07 16.55.48.coffee
+framer/backups/backup-2017-04-07 16.56.48.coffee
+framer/backups/backup-2017-04-07 16.57.48.coffee
+framer/backups/backup-2017-04-07 16.58.48.coffee
+framer/backups/backup-2017-04-07 16.59.48.coffee
+framer/backups/backup-2017-04-07 17.00.48.coffee
+framer/backups/backup-2017-04-07 17.02.48.coffee
+framer/backups/backup-2017-04-07 17.07.48.coffee
+framer/backups/backup-2017-04-07 17.08.48.coffee
+framer/backups/backup-2017-04-07 17.09.48.coffee
+framer/backups/backup-2017-04-07 17.10.48.coffee
+framer/backups/backup-2017-04-07 17.11.48.coffee
+framer/backups/backup-2017-04-07 17.12.48.coffee
+framer/backups/backup-2017-04-07 17.13.48.coffee
 framer/coffee-script.js
 framer/config.json
 framer/framer.generated.js
@@ -134,15 +137,21 @@ imported/2_JCv2_A@1x/images/Layer-tooltipReport1-mey4njre.png
 imported/2_JCv2_A@1x/images/Layer-tooltipReport2-mtyxnjzf.png
 imported/2_JCv2_A@1x/layers.json
 imported/2_JCv2_A@1x/layers.json.js
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-bg-n0i2njhc.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverDynamic2-nkyymdlg.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverPixel-rjyymdzb.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport1-mty1nzy5.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport2-ntu2qtqx.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipDynamic2-nezcothc.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipPixel-oteymzqx.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport1-muuyodu4.png
-imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport2-mkzgrumz.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-bg-rta4rtg1.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-botPadding-qzkymdre.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-Group_17-mzy5qzk5.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-Group_18-rtuwoeyx.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-headerGuide-njzfmzlb.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-headerGuide2-nkyznzq2.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverDynamic2-nzfgreq1.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverPixel-rtdbqte0.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport1-oddfrufc.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-hoverReport2-quvertg4.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipDynamic2-rjm2mtbf.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipPixel-qzhcmtq1.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport1-qumyrtex.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-tooltipReport2-mjq4m0jd.png
+imported/2_JCv_B1-redesigned-2@1x/images/Layer-topPadding-ntm4mty3.png
 imported/2_JCv_B1-redesigned-2@1x/layers.json
 imported/2_JCv_B1-redesigned-2@1x/layers.json.js
 imported/2_JCv_B1-redesigned-6@1x/images/Layer-bgBot-njlfmtne.png
